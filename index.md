@@ -5,3 +5,6 @@
 ``` javascript
 codeblock = "Hello, Mars!";
 ```
+- [ ] Finish Git Hub Courses
+- [ ] Go downstairs to get ice water
+- [ ] Go to sleep work at 6 am
